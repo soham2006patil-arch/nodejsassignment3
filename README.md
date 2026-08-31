@@ -56,4 +56,5 @@ app.js
 <img width="560" height="102" alt="Screenshot 2026-08-19 at 1 51 05 PM" src="https://github.com/user-attachments/assets/cd2634e0-2839-4abe-85ac-a6573d13e321" />
 
 introduction.js
-<img width="582" height="115" alt="Screenshot 2026-08-19 at 1 51 18 PM" src="https://github.com/user-attachments/assets/bc2dfb74-4fd9-47a2-999f-b1c2936bbd3b" />
+<img width="446" height="101" alt="image" src="https://github.com/user-attachments/assets/f51812aa-2ba6-4f48-80de-3a7b882f9899" />
+
